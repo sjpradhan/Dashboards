@@ -20,3 +20,11 @@ Explore the local government data with our dynamic, interactive dashboard. This 
 Unlock the potential of your real estate data with our comprehensive, interactive dashboard. This powerful tool provides a clear, real-time overview of property performance, sales trends, market analysis, and investment opportunities. Whether you're tracking property values, rental yields, or buyer demographics, our dashboard offers customizable filters and detailed visualizations to help you make informed decisions and optimize your real estate portfolio. Stay ahead of the market with actionable insights at your fingertips.
 
 [![Image 3](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/USA%20Real%20Estate%20Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZGI5OGQ5MzktZDYwMS00ZjAyLWJlZjgtYWE4MThmZmIwOGQ1IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9)
+
+# Employee Attrition Dashboard
+
+This dashboard provides an insightful overview of employee attrition trends, helping to identify patterns, root causes, and potential risks related to employee turnover. Key metrics such as attrition rate, tenure, department-wise analysis, and demographic breakdown are visualized to support data-driven decisions for improving retention strategies and fostering a positive work environment.
+
+[![Image 3](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/HR%20Attrition.png)](https://app.powerbi.com/view?r=eyJrIjoiNzVmNjI3YjItODE1Zi00Mzc5LTk4MDctMmQyNTQ4NGU4OTIzIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=28bb6b8bb2c36d15fb38)
+
+
