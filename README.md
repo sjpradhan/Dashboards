@@ -13,6 +13,7 @@ Gain comprehensive insights into your retail sales and supplier performance with
   <img src="https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Retail%20Dashboard.png" alt="Image 1" />
 </a>
 
+
 # Local Government Directory (LGD) Dashboard
 
 Explore the local government data with our dynamic, interactive dashboard. This tool allows users to effortlessly navigate through detailed information at the state, district, sub-district, and village levels, all while filtering data by zones and other key parameters. With real-time insights and customizable views, users can easily track and analyze government metrics across various regions.
