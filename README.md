@@ -8,3 +8,11 @@ Gain comprehensive insights into your retail sales and supplier performance with
 
 
 [![Image 1](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Retail%20Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYzU5OWJjOGQtOGNjNy00MjY0LTkwZWEtZjIwNDA1ODhlMmJmIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=61601f004800b9036737)
+
+# Local Government Directory Detail
+
+Explore the local government data with our dynamic, interactive dashboard. This tool allows users to effortlessly navigate through detailed information at the state, district, sub-district, and village levels, all while filtering data by zones and other key parameters. With real-time insights and customizable views, users can easily track and analyze government metrics across various regions.
+
+[![Image 2](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/LGD-%20Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiMjYwNDU0MzgtN2M2NC00M2UwLTljZWUtY2FmNGNjNGUxYjA5IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=848ad9c79b1971ff7579)
+
+
