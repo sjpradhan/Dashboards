@@ -35,6 +35,12 @@ This dashboard provides an insightful overview of employee attrition trends, hel
 
 [![Image 3](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/HR%20Attrition.png)](https://app.powerbi.com/view?r=eyJrIjoiNzVmNjI3YjItODE1Zi00Mzc5LTk4MDctMmQyNTQ4NGU4OTIzIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=28bb6b8bb2c36d15fb38)
 
+# Healthcare Dashboard
+
+Healthcare Industry Dashboard provides comprehensive, real-time insights to help healthcare organizations monitor and optimize their performance. With interactive visualizations, this dashboard enables healthcare professionals to track key metrics such as patient outcomes, hospital performance, resource utilization, and financial health. Designed to empower decision-makers, it helps identify trends, improve operational efficiency, and enhance patient care, all while enabling data-driven strategies for a healthier future.
+
+[![Image 4](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Healthcare.png)](https://app.powerbi.com/view?r=eyJrIjoiYzZlNTJjNzgtZWZlYS00ZDgyLTgyMzItYjlhY2JjZTAyYTY1IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=fef90244ad61444701e5)
+
 ## Why Use Power BI?
 
 Power BI is a powerful business analytics tool that turns your data into interactive, insightful reports and dashboards. Here’s why Power BI is the go-to tool for businesses:
