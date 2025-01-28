@@ -9,10 +9,6 @@ With interactive dashboard transform your data into actionable insights with cut
 - [USA - Real Estate Dashboard](#usa---real-estate-dashboard)
 - [Employee Attrition Dashboard](#employee-attrition-dashboard)
 - [Why Use Power BI?](#why-use-power-bi)
-- [How to Set Up Power BI Dashboards](#how-to-set-up-power-bi-dashboards)
-- [Additional Resources](#additional-resources)
-- [Contact](#contact)
-
 
 # Retail Dashboard
 
