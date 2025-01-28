@@ -30,3 +30,8 @@ This dashboard provides an insightful overview of employee attrition trends, hel
 [![Image 3](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/HR%20Attrition.png)](https://app.powerbi.com/view?r=eyJrIjoiNzVmNjI3YjItODE1Zi00Mzc5LTk4MDctMmQyNTQ4NGU4OTIzIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=28bb6b8bb2c36d15fb38)
 
 
+## 🤝 Contact
+
+For any questions or issues, please reach out to [sj.pradan@gmail.com](mailto:youremail@example.com)
+
+
