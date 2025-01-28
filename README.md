@@ -3,13 +3,11 @@
 #### With interactive dashboard transform your data into actionable insights with cutting-edge Power BI dashboard, built to serve 20 dynamic industries. Whether you're in finance, healthcare, retail, or manufacturing, our dashboard offers real-time, interactive visualizations that make complex data easy to understand and act upon. With tailored solutions for each industry, you’ll uncover hidden trends, improve decision-making, and accelerate business success. Experience the future of data-driven growth today!
 
 # Table Of Content
-[Retail Dashboard](https://github.com/sjpradhan/Dashboards/blob/gh-pages/README.md#retail-dashboard)
 
-[Local Government Directory (LGD) Dashboard](https://github.com/sjpradhan/Dashboards/blob/gh-pages/README.md#local-government-directory-lgd-dashboard)
-
-[USA - Real Estate Dashboard](https://github.com/sjpradhan/Dashboards/blob/gh-pages/README.md#usa---real-estate-dashboard)
-
-[Local Government Directory (LGD) Dashboard](https://github.com/sjpradhan/Dashboards/blob/gh-pages/README.md#local-government-directory-(lgd)-dashboard)
+- [Retail Dashboard](https://github.com/sjpradhan/Dashboards/blob/gh-pages/README.md#retail-dashboard)
+- [Local Government Directory (LGD) Dashboard](https://github.com/sjpradhan/Dashboards/blob/gh-pages/README.md#local-government-directory-lgd-dashboard)
+- [USA - Real Estate Dashboard](https://github.com/sjpradhan/Dashboards/blob/gh-pages/README.md#usa---real-estate-dashboard)
+- [Local Government Directory (LGD) Dashboard](https://github.com/sjpradhan/Dashboards/blob/gh-pages/README.md#employee-attrition-dashboard)
 
 
 # Retail Dashboard
