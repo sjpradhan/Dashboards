@@ -44,6 +44,8 @@ Healthcare Industry Dashboard provides comprehensive, real-time insights to help
 
 # Finance & Banking
 
+An intuitive finance dashboard that provides real-time insights into key financial metrics, helping users track performance, manage budgets, and make data-driven decisions efficiently. offers a user-friendly interface to monitor and analyze key financial metrics in real time. With customizable visualizations and detailed reports, this dashboard helps users stay on top of their financial goals and make informed choices to drive business or personal financial success.
+
 [![Image 6](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Finance%20%26%20Banking.png)](https://app.powerbi.com/view?r=eyJrIjoiY2I2ZDhlNTEtNDY2MS00YjU2LWFlYzktOWViMTgxMDk4MGZkIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9
 )
 
