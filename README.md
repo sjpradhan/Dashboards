@@ -8,7 +8,7 @@ With interactive dashboard transform your data into actionable insights with cut
 - [Local Government Directory (LGD) Dashboard](#local-government-directory-lgd-dashboard)
 - [USA - Real Estate Dashboard](#usa---real-estate-dashboard)
 - [Employee Attrition Dashboard](#employee-attrition-dashboard)
-- [Employee Attrition Dashboard](#healthcare-dashboard)
+- [Healthcare Dashboard](#healthcare-dashboard)
 - [Why Use Power BI?](#why-use-power-bi)
 
 # Retail Dashboard
