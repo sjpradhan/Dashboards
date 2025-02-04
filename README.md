@@ -53,11 +53,11 @@ An intuitive finance dashboard that provides real-time insights into key financi
 
 Power BI is a powerful business analytics tool that turns your data into interactive, insightful reports and dashboards. Here’s why Power BI is the go-to tool for businesses:
 
-- **Real-Time Insights**: Make informed decisions based on live data.
-- **Easy Integration**: Connects easily to various data sources, including databases, cloud services, and Excel files.
-- **Customizable Visuals**: Create custom visuals to better represent your data in an easy-to-understand format.
-- **Scalability**: From small businesses to large enterprises, Power BI scales to fit your needs.
-- **Advanced Analytics**: Use powerful DAX formulas to perform sophisticated calculations and analytics.
+- ⌛**Real-Time Insights**: Make informed decisions based on live data.
+- ☑️**Easy Integration**: Connects easily to various data sources, including databases, cloud services, and Excel files.
+- 📊**Customizable Visuals**: Create custom visuals to better represent your data in an easy-to-understand format.
+- ⚙️**Scalability**: From small businesses to large enterprises, Power BI scales to fit your needs.
+- 🔍**Advanced Analytics**: Use powerful DAX formulas to perform sophisticated calculations and analytics.
 
 ---
 
