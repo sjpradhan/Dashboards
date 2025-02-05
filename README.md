@@ -8,6 +8,7 @@ License: ![MIT License](https://img.shields.io/badge/License-MIT-green)
 ![Likes](https://img.shields.io/badge/Likes-100-green?style=flat)
 ![Dislikes](https://img.shields.io/badge/Dislikes-10-red?style=flat)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YourGitHubUsername/YourRepoName&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg)
+<img src="https://www.google-analytics.com/mp/collect?v=2&tid=G-XXXXXXXXXX&cid=555&t=event&ec=page_view&ea=readme_view&dp=%2Fgithub%2FYourRepoName" width="1" height="1" />
 
 Welcome to my repository! This repository showcases dynamic Power BI dashboards from open-source datasets, as well as the analytics services I offer using Power BI. Whether you are a **business owner** looking to understand how dashboards can help in **decision-making**, a **learner who wants to become a Power BI developer**, or a **recruiter** looking for talent in Power BI development, this repository is designed to give you the insight and value you're seeking.Transform your data into actionable insights with cutting-edge Power BI dashboard, built to serve 20 dynamic industries. Whether you're in finance, healthcare, retail, or manufacturing, our dashboard offers real-time, interactive visualizations that make complex data easy to understand and act upon. With tailored solutions for each industry, you’ll uncover hidden trends, improve decision-making, and accelerate **business success**. Experience the future of data-driven growth today!
 
