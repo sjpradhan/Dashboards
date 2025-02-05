@@ -99,7 +99,7 @@ An intuitive finance dashboard that provides real-time insights into key financi
 )
 
 # Tech Tools:
-- **Power BI Desktop** | **Power Query** | **Dax** | ** Power BI Service** | **Gateway** | **Sharepoint** | **Onedrive** | **Microsoft 365** | **Database** | **Python** | **Pandas** | **Matplotlib** | **Seaborn** | **Excel**
+- **Power BI Desktop** | **Power Query** | **Dax** | **Power BI Service** | **Gateway** | **Sharepoint** | **Onedrive** | **Microsoft 365** | **Database** | **Python** | **Pandas** | **Matplotlib** | **Seaborn** | **Excel**
 ## 🤝 Contact
 
 For any questions or issues, please reach out to [sj.pradan@gmail.com](mailto:youremail@example.com)
