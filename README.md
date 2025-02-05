@@ -40,17 +40,14 @@ These dashboards showcase the real-world application of Power BI and how it can 
 - **Understand Business Metrics:** Learn how a Power BI dashboard can provide a 360-degree view of your key business metrics.
 - **Improve Decision-Making:** Real-time data visualization can help you make informed decisions, identify risks, and leverage opportunities.
 - Streamline Reporting: With automated reporting, you can save time and ensure accuracy across the board.
-
-### End User Interactive Dynamic Dashboard📊
- [Retail Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzU5OWJjOGQtOGNjNy00MjY0LTkwZWEtZjIwNDA1ODhlMmJmIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=61601f004800b9036737)
-
   
 ## For Aspiring Power BI Developers:
 - **Learn Power BI Development:** This repository offers hands-on examples of Power BI dashboards that you can study and learn from.
 - **Get Started with Power BI:** I provide sample datasets and project templates to help you kickstart your journey as a Power BI developer.
 - **Enhance Your Skills:** Understand the best practices in Power BI dashboard creation, data transformation, DAX calculations, and more.
 
-### Developer & Learners🚀
+## End User Interactive Dynamic Dashboard🚀
+ [Retail Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzU5OWJjOGQtOGNjNy00MjY0LTkwZWEtZjIwNDA1ODhlMmJmIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=61601f004800b9036737)
 
 ## Key Features:
 - **Interactive Dashboards:** Easy-to-use dashboards that allow users to filter and drill down into the data to uncover insights.
@@ -58,7 +55,6 @@ These dashboards showcase the real-world application of Power BI and how it can 
 - **Custom Visuals and DAX:** Use of custom visuals and advanced DAX measures to tailor the dashboards to your specific needs.
 - **Data Transformation:** Advanced data transformation techniques using Power Query to clean and prepare data for analysis.
 - **User-Centric Design:** Dashboards designed with user experience in mind, ensuring clarity and actionable insights.
-
 
 # Retail Dashboard
 
