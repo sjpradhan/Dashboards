@@ -16,10 +16,11 @@ The goal is to provide easy-to-understand visualizations that highlight business
 ## Power BI for Industry-Specific Solutions
 ### Dashboards across various industries, including:
 
-Retail
-Finance
-Healthcare
-Sales & Marketing
+- [Retail Dashboard](#retail-dashboard)
+- [Local Government Directory (LGD) Dashboard](#local-government-directory-lgd-dashboard)
+- [USA - Real Estate Dashboard](#usa---real-estate-dashboard)
+- [Employee Attrition Dashboard](#employee-attrition-dashboard)
+- [Healthcare Dashboard](#healthcare-dashboard)
 
 These dashboards showcase the real-world application of Power BI and how it can be used to improve business strategies and outcomes.
 
@@ -41,38 +42,6 @@ These dashboards showcase the real-world application of Power BI and how it can 
 - **Data Transformation:** Advanced data transformation techniques using Power Query to clean and prepare data for analysis.
 - **User-Centric Design:** Dashboards designed with user experience in mind, ensuring clarity and actionable insights.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Table of Contents
-
-- [Retail Dashboard](#retail-dashboard)
-- [Local Government Directory (LGD) Dashboard](#local-government-directory-lgd-dashboard)
-- [USA - Real Estate Dashboard](#usa---real-estate-dashboard)
-- [Employee Attrition Dashboard](#employee-attrition-dashboard)
-- [Healthcare Dashboard](#healthcare-dashboard)
-- [Why Use Power BI?](#why-use-power-bi)
 
 # Retail Dashboard
 
