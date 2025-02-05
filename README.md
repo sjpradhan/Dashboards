@@ -99,7 +99,7 @@ An intuitive finance dashboard that provides real-time insights into key financi
 )
 
 # Tools Used:
-- **Power BI** **SQL**
+- **Power BI** | **SQL**
 ## 🤝 Contact
 
 For any questions or issues, please reach out to [sj.pradan@gmail.com](mailto:youremail@example.com)
