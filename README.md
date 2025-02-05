@@ -103,3 +103,6 @@ GitHub Stars: ![GitHub stars](https://img.shields.io/github/stars/yourusername/y
 Forks: ![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
 License: ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
+## 🔎Hashtags for Search:
+#PowerBI #DataAnalytics #Dashboard #BusinessIntelligence #MachineLearning #FinanceDashboard #RetailDashboard
+
