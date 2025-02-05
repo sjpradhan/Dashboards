@@ -40,6 +40,9 @@ These dashboards showcase the real-world application of Power BI and how it can 
 - **Understand Business Metrics:** Learn how a Power BI dashboard can provide a 360-degree view of your key business metrics.
 - **Improve Decision-Making:** Real-time data visualization can help you make informed decisions, identify risks, and leverage opportunities.
 - Streamline Reporting: With automated reporting, you can save time and ensure accuracy across the board.
+
+ [Retail Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzU5OWJjOGQtOGNjNy00MjY0LTkwZWEtZjIwNDA1ODhlMmJmIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=61601f004800b9036737)
+
   
 ## For Aspiring Power BI Developers:
 - **Learn Power BI Development:** This repository offers hands-on examples of Power BI dashboards that you can study and learn from.
@@ -61,8 +64,7 @@ These dashboards showcase the real-world application of Power BI and how it can 
 
 [![Image 1](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Retail%20Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYzU5OWJjOGQtOGNjNy00MjY0LTkwZWEtZjIwNDA1ODhlMmJmIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=61601f004800b9036737)
 
-Gain comprehensive insights into your retail sales and supplier performance with our powerful, interactive dashboard. Designed to help businesses track and analyze sales trends, and supplier efficiency, this dashboard provides real-time data visualization for smarter decision-making. Easily monitor key metrics such as sales volume, profit margins, top-selling products, and supplier reliability. With intuitive filters and drill-down capabilities, you can dive deep into performance data, identify opportunities for improvement, and optimize your supply chain for maximum profitability. [Retail Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzU5OWJjOGQtOGNjNy00MjY0LTkwZWEtZjIwNDA1ODhlMmJmIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=61601f004800b9036737)
-
+Gain comprehensive insights into your retail sales and supplier performance with our powerful, interactive dashboard. Designed to help businesses track and analyze sales trends, and supplier efficiency, this dashboard provides real-time data visualization for smarter decision-making. Easily monitor key metrics such as sales volume, profit margins, top-selling products, and supplier reliability. With intuitive filters and drill-down capabilities, you can dive deep into performance data, identify opportunities for improvement, and optimize your supply chain for maximum profitability.
 # Local Government Directory (LGD) Dashboard
 
 Explore the local government data with our dynamic, interactive dashboard. This tool allows users to effortlessly navigate through detailed information at the state, district, sub-district, and village levels, all while filtering data by zones and other key parameters. With real-time insights and customizable views, users can easily track and analyze government metrics across various regions.
