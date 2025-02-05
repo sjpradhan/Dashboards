@@ -98,8 +98,8 @@ An intuitive finance dashboard that provides real-time insights into key financi
 [![Image 6](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Finance%20%26%20Banking.png)](https://app.powerbi.com/view?r=eyJrIjoiY2I2ZDhlNTEtNDY2MS00YjU2LWFlYzktOWViMTgxMDk4MGZkIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9
 )
 
-# Tools Used:
-- **Power BI** | **SQL**
+# Tech Tools:
+- **Power BI Desktop** | **Power Query** | **Dax** | ** Power BI Service** | **Gateway** | **Sharepoint** | **Onedrive** | **Microsoft 365** | **Database** | **Python** | **Pandas** | **Matplotlib** | **Seaborn** | **Excel**
 ## 🤝 Contact
 
 For any questions or issues, please reach out to [sj.pradan@gmail.com](mailto:youremail@example.com)
