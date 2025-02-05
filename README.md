@@ -3,6 +3,8 @@ Forks: ![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=
 License: ![MIT License](https://img.shields.io/badge/License-MIT-green)
 # Revolutionize Your Business with a Powerful Power BI Dashboard for 15+ Industries – Real-Time Insights, Data-Driven Success!☄️
 
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+
 Welcome to my repository! This repository showcases dynamic Power BI dashboards from open-source datasets, as well as the analytics services I offer using Power BI. Whether you are a **business owner** looking to understand how dashboards can help in **decision-making**, a **learner who wants to become a Power BI developer**, or a **recruiter** looking for talent in Power BI development, this repository is designed to give you the insight and value you're seeking.Transform your data into actionable insights with cutting-edge Power BI dashboard, built to serve 20 dynamic industries. Whether you're in finance, healthcare, retail, or manufacturing, our dashboard offers real-time, interactive visualizations that make complex data easy to understand and act upon. With tailored solutions for each industry, you’ll uncover hidden trends, improve decision-making, and accelerate **business success**. Experience the future of data-driven growth today!
 
 # Power BI Analytics Services
