@@ -3,6 +3,17 @@
 Welcome to my repository! This repository showcases dynamic Power BI dashboards from open-source datasets, as well as the analytics services I offer using Power BI. Whether you are a **business owner** looking to understand how dashboards can help in **decision-making**, a **learner who wants to become a Power BI developer**, or a **recruiter** looking for talent in Power BI development, this repository is designed to give you the insight and value you're seeking.Transform your data into actionable insights with cutting-edge Power BI dashboard, built to serve 20 dynamic industries. Whether you're in finance, healthcare, retail, or manufacturing, our dashboard offers real-time, interactive visualizations that make complex data easy to understand and act upon. With tailored solutions for each industry, you’ll uncover hidden trends, improve decision-making, and accelerate **business success**. Experience the future of data-driven growth today!
 
 # Power BI Analytics Services
+
+## Why Use Power BI?
+
+Power BI is a powerful business analytics tool that turns your data into interactive, insightful reports and dashboards. Here’s why Power BI is the go-to tool for businesses:
+
+- ⌛**Real-Time Insights**: Make informed decisions based on live data.
+- ☑️**Easy Integration**: Connects easily to various data sources, including databases, cloud services, and Excel files.
+- 📊**Customizable Visuals**: Create custom visuals to better represent your data in an easy-to-understand format.
+- ⚙️**Scalability**: From small businesses to large enterprises, Power BI scales to fit your needs.
+- 🔍**Advanced Analytics**: Use powerful DAX formulas to perform sophisticated calculations and analytics.
+
 ## Power BI Dashboards for Business Insights
 In this repository, you will find various examples of dashboards created using Power BI. These dashboards are designed to help organizations in different industries:
 
@@ -83,21 +94,11 @@ An intuitive finance dashboard that provides real-time insights into key financi
 [![Image 6](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Finance%20%26%20Banking.png)](https://app.powerbi.com/view?r=eyJrIjoiY2I2ZDhlNTEtNDY2MS00YjU2LWFlYzktOWViMTgxMDk4MGZkIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9
 )
 
-## Why Use Power BI?
-
-Power BI is a powerful business analytics tool that turns your data into interactive, insightful reports and dashboards. Here’s why Power BI is the go-to tool for businesses:
-
-- ⌛**Real-Time Insights**: Make informed decisions based on live data.
-- ☑️**Easy Integration**: Connects easily to various data sources, including databases, cloud services, and Excel files.
-- 📊**Customizable Visuals**: Create custom visuals to better represent your data in an easy-to-understand format.
-- ⚙️**Scalability**: From small businesses to large enterprises, Power BI scales to fit your needs.
-- 🔍**Advanced Analytics**: Use powerful DAX formulas to perform sophisticated calculations and analytics.
-
----
-
-
 ## 🤝 Contact
 
 For any questions or issues, please reach out to [sj.pradan@gmail.com](mailto:youremail@example.com)
 
+GitHub Stars: ![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+Forks: ![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
+License: ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
