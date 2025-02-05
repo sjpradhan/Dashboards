@@ -102,7 +102,7 @@ An intuitive finance dashboard that provides real-time insights into key financi
 - **Power BI Desktop** | **Power Query** | **Dax** | **Power BI Service** | **Gateway** | **Sharepoint** | **Onedrive** | **Microsoft 365** | **Database** | **Python** | **Pandas** | **Matplotlib** | **Seaborn** | **Excel**
 ## 🤝 Contact
 
-For any questions or issues, please reach out to [sj.pradan@gmail.com](mailto:youremail@example.com)
+For any questions or issues, please reach out to [Hello Satyajit!](mailto:sj.pradan@gmail.com)
 
 ## 🔎Hashtags:
 
