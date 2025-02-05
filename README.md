@@ -103,6 +103,9 @@ GitHub Stars: ![GitHub stars](https://img.shields.io/github/stars/yourusername/y
 Forks: ![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
 License: ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
-## 🔎Hashtags for Search:
-#PowerBI #DataAnalytics #Dashboard #BusinessIntelligence #MachineLearning #FinanceDashboard #RetailDashboard
+## 🔎Hashtags:
+
+#Analytics #DataAnalytics #BigData #DataScience #BusinessAnalytics #PredictiveAnalytics #DescriptiveAnalytics #PrescriptiveAnalytics #DataMining #DataVisualization #DataDriven #DataAnalysis #AdvancedAnalytics #StatisticalAnalysis #QuantitativeAnalysis #QualitativeAnalysis #ExploratoryDataAnalysis (EDA) #MachineLearning #AI (Artificial Intelligence) #DeepLearning #ArtificialIntelligence #Algorithm #DataModeling #NaturalLanguageProcessing #NLP #AI #PowerBI #BusinessIntelligence #BI #DataViz #DataVisualization #PowerBIReport #PowerBIProjects #PowerBIDashboard #DataDashboard #DataStorytelling #DashboardDesign #InteractiveDashboards #BIAnalytics #DataEngineering #DataPipelines #ETL #DataIntegration #DataWarehouse #BigDataEngineering #DataLake #CloudData #SQL #HealthcareAnalytics #FinanceAnalytics #RetailAnalytics #MarketingAnalytics #SportsAnalytics #EducationAnalytics #SupplyChainAnalytics #HRAnalytics #ManufacturingAnalytics #RetailData #DataDrivenDecisionMaking #BusinessDecisions #BusinessIntelligenceTools #StrategicInsights #BusinessStrategy #DataInformed #DataVisualization #Charting #Graphing #Reporting #BusinessReports #DataReports #GraphicalAnalysis #DataInsights #Dashboarding #Infographics #Python #SQL #DAX #Excel #Jupyter #Pandas #Matplotlib #Seaborn #PowerQuery
+![image](https://github.com/user-attachments/assets/fc813d24-351e-4ebe-930f-ca8afc261f20)
+
 
