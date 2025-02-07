@@ -1,4 +1,4 @@
-License: ![MIT License](https://img.shields.io/badge/License-MIT-green)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Views&color=FB4141&style=flat" alt="sjpradhan" />
 </p>
