@@ -2,6 +2,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Views&color=FB4141&style=flat" alt="sjpradhan" />
 </p>
+
 # Revolutionize Your Business with a Powerful Power BI Dashboard for 15+ Industries – Real-Time Insights, Data-Driven Success!☄️
 
 
