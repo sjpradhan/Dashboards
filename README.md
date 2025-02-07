@@ -6,7 +6,7 @@ License: ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 
 <p align="center">
-  <a href="https://github.com/sjpradhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Revolutionize+Your+Business+with+a+Powerful+Power+BI+Dashboard+for+15++Industries+–+Real-Time+Insights,+Data-Driven+Success!☄️&center=true&width=1000&height=45"></a>
+  <a href="https://github.com/sjpradhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Revolutionize+Your+Business+with+a+Powerful+Power+BI+Dashboard+for+15++Industries+–+Real-Time+Insights,+Data-Driven+Success!☄️&center=true&width=1200&height=45"></a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="sjpradhan" /> </p>
 
