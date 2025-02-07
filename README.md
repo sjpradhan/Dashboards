@@ -49,13 +49,13 @@ These dashboards showcase the real-world application of Power BI and how it can 
 - **Enhance Your Skills:** Understand the best practices in Power BI dashboard creation, data transformation, DAX calculations, and more.
 
 ## End User Interactive Dynamic Dashboard🚀
- [Retail Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzU5OWJjOGQtOGNjNy00MjY0LTkwZWEtZjIwNDA1ODhlMmJmIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=61601f004800b9036737)
- [Local Government Directory (LGD) Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiMjYwNDU0MzgtN2M2NC00M2UwLTljZWUtY2FmNGNjNGUxYjA5IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=848ad9c79b1971ff7579)
- [USA - Real Estate Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiZGI5OGQ5MzktZDYwMS00ZjAyLWJlZjgtYWE4MThmZmIwOGQ1IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9)
- [Employee Attrition Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiNzVmNjI3YjItODE1Zi00Mzc5LTk4MDctMmQyNTQ4NGU4OTIzIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=28bb6b8bb2c36d15fb38)
- [Healthcare Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzZlNTJjNzgtZWZlYS00ZDgyLTgyMzItYjlhY2JjZTAyYTY1IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=fef90244ad61444701e5)
- [Finance & Banking 🔗](https://app.powerbi.com/view?r=eyJrIjoiY2I2ZDhlNTEtNDY2MS00YjU2LWFlYzktOWViMTgxMDk4MGZkIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9)
- [Telecommunication 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzQ0MDc3MGYtYmExMC00ZjZjLTg3YmUtNTYzY2I4MDdhMTIwIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9) 
+- [Retail Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzU5OWJjOGQtOGNjNy00MjY0LTkwZWEtZjIwNDA1ODhlMmJmIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=61601f004800b9036737)
+- [Local Government Directory (LGD) Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiMjYwNDU0MzgtN2M2NC00M2UwLTljZWUtY2FmNGNjNGUxYjA5IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=848ad9c79b1971ff7579)
+- [USA - Real Estate Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiZGI5OGQ5MzktZDYwMS00ZjAyLWJlZjgtYWE4MThmZmIwOGQ1IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9)
+- [Employee Attrition Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiNzVmNjI3YjItODE1Zi00Mzc5LTk4MDctMmQyNTQ4NGU4OTIzIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=28bb6b8bb2c36d15fb38)
+- [Healthcare Dashboard 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzZlNTJjNzgtZWZlYS00ZDgyLTgyMzItYjlhY2JjZTAyYTY1IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=fef90244ad61444701e5)
+- [Finance & Banking 🔗](https://app.powerbi.com/view?r=eyJrIjoiY2I2ZDhlNTEtNDY2MS00YjU2LWFlYzktOWViMTgxMDk4MGZkIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9)
+- [Telecommunication 🔗](https://app.powerbi.com/view?r=eyJrIjoiYzQ0MDc3MGYtYmExMC00ZjZjLTg3YmUtNTYzY2I4MDdhMTIwIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9) 
 
 ## Key Features:
 - **Interactive Dashboards:** Easy-to-use dashboards that allow users to filter and drill down into the data to uncover insights.
