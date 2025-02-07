@@ -107,7 +107,7 @@ An intuitive finance dashboard that provides real-time insights into key financi
 
 # Telecommunication
 
-[![Image 7](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Finance%20%26%20Banking.png)](https://app.powerbi.com/view?r=eyJrIjoiYzQ0MDc3MGYtYmExMC00ZjZjLTg3YmUtNTYzY2I4MDdhMTIwIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9
+[![Image 7](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Telecommunication.png)](https://app.powerbi.com/view?r=eyJrIjoiYzQ0MDc3MGYtYmExMC00ZjZjLTg3YmUtNTYzY2I4MDdhMTIwIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9
 )
 
 # Tech Tools:
