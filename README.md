@@ -42,7 +42,8 @@ The goal is to provide easy-to-understand visualizations that highlight business
 - [USA - Real Estate Dashboard](#usa---real-estate-dashboard)
 - [Employee Attrition Dashboard](#employee-attrition-dashboard)
 - [Healthcare Dashboard](#healthcare-dashboard)
-- [Fincance & Banking](##finance--banking)
+- [Fincance & Banking](#finance--banking)
+- [Telecommunication](#telecommunication)
 
 These dashboards showcase the real-world application of Power BI and how it can be used to improve business strategies and outcomes.
 
@@ -103,6 +104,8 @@ Healthcare Industry Dashboard provides comprehensive, real-time insights to help
 )
 
 An intuitive finance dashboard that provides real-time insights into key financial metrics, helping users track performance, manage budgets, and make data-driven decisions efficiently. offers a user-friendly interface to monitor and analyze key financial metrics in real time. With customizable visualizations and detailed reports, this dashboard helps users stay on top of their financial goals and make informed choices to drive business or personal financial success.
+
+# Telecommunication
 
 [![Image 7](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Finance%20%26%20Banking.png)](https://app.powerbi.com/view?r=eyJrIjoiYzQ0MDc3MGYtYmExMC00ZjZjLTg3YmUtNTYzY2I4MDdhMTIwIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9
 )
