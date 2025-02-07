@@ -1,10 +1,9 @@
+# Revolutionize Your Business with a Powerful Power BI Dashboard for 15+ Industries – Real-Time Insights, Data-Driven Success!☄️
+
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Views&color=FB4141&style=flat" alt="sjpradhan" />
 </p>
-
-# Revolutionize Your Business with a Powerful Power BI Dashboard for 15+ Industries – Real-Time Insights, Data-Driven Success!☄️
-
 
 <p align="center">
   <a href="https://github.com/sjpradhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Power+BI+Developer+|+Analyst🚀&center=true&width=380&height=60"></a>
