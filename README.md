@@ -42,6 +42,7 @@ The goal is to provide easy-to-understand visualizations that highlight business
 - [USA - Real Estate Dashboard](#usa---real-estate-dashboard)
 - [Employee Attrition Dashboard](#employee-attrition-dashboard)
 - [Healthcare Dashboard](#healthcare-dashboard)
+- [Healthcare Dashboard](#healthcare-dashboard)
 
 These dashboards showcase the real-world application of Power BI and how it can be used to improve business strategies and outcomes.
 
