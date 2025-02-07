@@ -42,7 +42,7 @@ The goal is to provide easy-to-understand visualizations that highlight business
 - [USA - Real Estate Dashboard](#usa---real-estate-dashboard)
 - [Employee Attrition Dashboard](#employee-attrition-dashboard)
 - [Healthcare Dashboard](#healthcare-dashboard)
-- [Healthcare Dashboard](#healthcare-dashboard)
+- [Fincance & Banking](##finance--banking)
 
 These dashboards showcase the real-world application of Power BI and how it can be used to improve business strategies and outcomes.
 
@@ -69,41 +69,42 @@ These dashboards showcase the real-world application of Power BI and how it can 
 
 # Retail Dashboard
 
-- **Why?** Retailers need to analyze sales performance, customer behavior, inventory management, and marketing effectiveness.
-- **Focus!** Create dashboards for sales trends, customer demographics, and inventory levels to help optimize stock and improve sales strategies.
-
 [![Image 1](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Retail%20Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYzU5OWJjOGQtOGNjNy00MjY0LTkwZWEtZjIwNDA1ODhlMmJmIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=61601f004800b9036737)
 
 Gain comprehensive insights into your retail sales and supplier performance with our powerful, interactive dashboard. Designed to help businesses track and analyze sales trends, and supplier efficiency, this dashboard provides real-time data visualization for smarter decision-making. Easily monitor key metrics such as sales volume, profit margins, top-selling products, and supplier reliability. With intuitive filters and drill-down capabilities, you can dive deep into performance data, identify opportunities for improvement, and optimize your supply chain for maximum profitability.
+  
 # Local Government Directory (LGD) Dashboard
-
-Explore the local government data with our dynamic, interactive dashboard. This tool allows users to effortlessly navigate through detailed information at the state, district, sub-district, and village levels, all while filtering data by zones and other key parameters. With real-time insights and customizable views, users can easily track and analyze government metrics across various regions.
 
 [![Image 2](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/LGD-%20Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiMjYwNDU0MzgtN2M2NC00M2UwLTljZWUtY2FmNGNjNGUxYjA5IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=848ad9c79b1971ff7579)
 
-# USA - Real Estate Dashboard
+Explore the local government data with our dynamic, interactive dashboard. This tool allows users to effortlessly navigate through detailed information at the state, district, sub-district, and village levels, all while filtering data by zones and other key parameters. With real-time insights and customizable views, users can easily track and analyze government metrics across various regions.
 
-Unlock the potential of your real estate data with our comprehensive, interactive dashboard. This powerful tool provides a clear, real-time overview of property performance, sales trends, market analysis, and investment opportunities. Whether you're tracking property values, rental yields, or buyer demographics, our dashboard offers customizable filters and detailed visualizations to help you make informed decisions and optimize your real estate portfolio. Stay ahead of the market with actionable insights at your fingertips.
+# USA - Real Estate Dashboard
 
 [![Image 3](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/USA%20Real%20Estate%20Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZGI5OGQ5MzktZDYwMS00ZjAyLWJlZjgtYWE4MThmZmIwOGQ1IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9)
 
-# Employee Attrition Dashboard
+Unlock the potential of your real estate data with our comprehensive, interactive dashboard. This powerful tool provides a clear, real-time overview of property performance, sales trends, market analysis, and investment opportunities. Whether you're tracking property values, rental yields, or buyer demographics, our dashboard offers customizable filters and detailed visualizations to help you make informed decisions and optimize your real estate portfolio. Stay ahead of the market with actionable insights at your fingertips.
 
-This dashboard provides an insightful overview of employee attrition trends, helping to identify patterns, root causes, and potential risks related to employee turnover. Key metrics such as attrition rate, tenure, department-wise analysis, and demographic breakdown are visualized to support data-driven decisions for improving retention strategies and fostering a positive work environment.
+# Employee Attrition Dashboard
 
 [![Image 4](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/HR%20Attrition.png)](https://app.powerbi.com/view?r=eyJrIjoiNzVmNjI3YjItODE1Zi00Mzc5LTk4MDctMmQyNTQ4NGU4OTIzIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=28bb6b8bb2c36d15fb38)
 
-# Healthcare Dashboard
+This dashboard provides an insightful overview of employee attrition trends, helping to identify patterns, root causes, and potential risks related to employee turnover. Key metrics such as attrition rate, tenure, department-wise analysis, and demographic breakdown are visualized to support data-driven decisions for improving retention strategies and fostering a positive work environment.
 
-Healthcare Industry Dashboard provides comprehensive, real-time insights to help healthcare organizations monitor and optimize their performance. With interactive visualizations, this dashboard enables healthcare professionals to track key metrics such as patient outcomes, hospital performance, resource utilization, and financial health. Designed to empower decision-makers, it helps identify trends, improve operational efficiency, and enhance patient care, all while enabling data-driven strategies for a healthier future.
+# Healthcare Dashboard
 
 [![Image 5](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Healthcare.png)](https://app.powerbi.com/view?r=eyJrIjoiYzZlNTJjNzgtZWZlYS00ZDgyLTgyMzItYjlhY2JjZTAyYTY1IiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9&pageName=fef90244ad61444701e5)
 
+Healthcare Industry Dashboard provides comprehensive, real-time insights to help healthcare organizations monitor and optimize their performance. With interactive visualizations, this dashboard enables healthcare professionals to track key metrics such as patient outcomes, hospital performance, resource utilization, and financial health. Designed to empower decision-makers, it helps identify trends, improve operational efficiency, and enhance patient care, all while enabling data-driven strategies for a healthier future.
+
 # Finance & Banking
+
+[![Image 6](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Finance%20%26%20Banking.png)](https://app.powerbi.com/view?r=eyJrIjoiY2I2ZDhlNTEtNDY2MS00YjU2LWFlYzktOWViMTgxMDk4MGZkIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9
+)
 
 An intuitive finance dashboard that provides real-time insights into key financial metrics, helping users track performance, manage budgets, and make data-driven decisions efficiently. offers a user-friendly interface to monitor and analyze key financial metrics in real time. With customizable visualizations and detailed reports, this dashboard helps users stay on top of their financial goals and make informed choices to drive business or personal financial success.
 
-[![Image 6](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Finance%20%26%20Banking.png)](https://app.powerbi.com/view?r=eyJrIjoiY2I2ZDhlNTEtNDY2MS00YjU2LWFlYzktOWViMTgxMDk4MGZkIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9
+[![Image 7](https://github.com/sjpradhan/Dashboards/blob/gh-pages/Images/Finance%20%26%20Banking.png)](https://app.powerbi.com/view?r=eyJrIjoiY2I2ZDhlNTEtNDY2MS00YjU2LWFlYzktOWViMTgxMDk4MGZkIiwidCI6ImNmMzM1YjY0LTg5NzAtNGZiNS1hYWVlLTczMTMwYzczNTEzOSJ9
 )
 
 # Tech Tools:
