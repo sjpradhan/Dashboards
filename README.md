@@ -5,6 +5,10 @@ License: ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
 
+<p align="center">
+  <a href="https://github.com/sjpradhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Curious+to+learn+new+things&center=true&width=380&height=45"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="sjpradhan" /> </p>
+
 ![Likes](https://img.shields.io/badge/Likes-100-green?style=flat)
 ![Dislikes](https://img.shields.io/badge/Dislikes-10-red?style=flat)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YourGitHubUsername/YourRepoName&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg)
