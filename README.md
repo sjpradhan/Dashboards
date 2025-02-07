@@ -1,5 +1,5 @@
 License: ![MIT License](https://img.shields.io/badge/License-MIT-green)
- A: <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Views&color=FB4141&style=flat" alt="sjpradhan" /> </p>
+A: <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjpradhan&label=Views&color=FB4141&style=flat" alt="sjpradhan" /> </p>
 # Revolutionize Your Business with a Powerful Power BI Dashboard for 15+ Industries – Real-Time Insights, Data-Driven Success!☄️
 
 
